@@ -1,3 +1,4 @@
+(for desktop)
 LampAi Round 2
 Practice Button Page
 ![image](https://github.com/tripti2442/lampai/assets/143881621/d844c736-489a-4e1c-afe8-f658d57e92e9)
