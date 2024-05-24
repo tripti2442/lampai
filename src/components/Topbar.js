@@ -8,6 +8,7 @@ import menu from '../menu.svg';
 export default function Topbar() {
   return (
     <>
+    
     <div className='topbar bg-white flex items-center px-6 py-3'>
     <div className='left flex items-center space-x-3 justify-start'>
       <img id='company_logo' className='w-10 h-10' src={company_logo} alt="Company Logo" />
